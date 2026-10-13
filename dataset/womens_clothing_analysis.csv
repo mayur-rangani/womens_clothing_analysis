@@ -1,0 +1,671 @@
+Order_ID,Order_Date,Category,Product_Name,Size,Unit_Price_INR,Quantity,Sales_Channel,Rating,Review
+ORD1001,2025-01-02,Jeans,Skinny Jeans,S,1839,1,Mobile App,3.4,Fit is a little loose.
+ORD1002,2025-01-04,Tops,Cotton T-Shirt,S,609,1,Online,3.0,Fit is a little loose.
+ORD1003,2025-01-04,Tops,Cotton T-Shirt,L,909,2,Mobile App,4.4,Value for money.
+ORD1004,2025-01-04,Kurtis,Printed Kurti,M,869,1,Store,4.6,Fabric feels so soft and premium.
+ORD1005,2025-01-04,Jeans,Wide-Leg Jeans,L,2069,2,Store,4.3,"Fabric is good, color as shown."
+ORD1006,2025-01-05,Bottoms,Palazzo Pants,M,1069,2,Mobile App,3.7,Comfortable and stylish.
+ORD1007,2025-01-05,Ethnic Wear,Salwar Suit,L,2869,1,Online,3.1,Average quality for the price.
+ORD1008,2025-01-05,Jeans,Wide-Leg Jeans,XS,2269,4,Store,3.3,"Decent, but expected better fabric."
+ORD1009,2025-01-05,Dresses,Floral Midi Dress,S,1379,2,Online,3.6,"Looks nice, happy with the purchase."
+ORD1010,2025-01-06,Tops,Cotton T-Shirt,M,559,2,Store,3.1,Average quality for the price.
+ORD1011,2025-01-06,Activewear,Track Jacket,S,2299,2,Mobile App,3.5,Value for money.
+ORD1012,2025-01-07,Dresses,Bodycon Dress,XS,1029,2,Mobile App,3.7,"Nice product, delivery was quick."
+ORD1013,2025-01-07,Bottoms,A-Line Skirt,S,1229,1,Store,3.8,"Looks nice, happy with the purchase."
+ORD1014,2025-01-08,Jeans,High-Waist Jeans,M,1489,1,Store,3.7,Comfortable and stylish.
+ORD1015,2025-01-09,Dresses,Bodycon Dress,S,1249,4,Store,3.6,Good quality and nice fit.
+ORD1016,2025-01-09,Bottoms,Formal Trousers,XXL,1959,1,Online,4.1,Comfortable and stylish.
+ORD1017,2025-01-10,Jeans,High-Waist Jeans,XL,1429,4,Store,3.0,Average quality for the price.
+ORD1018,2025-01-10,Ethnic Wear,Salwar Suit,M,3059,3,Mobile App,3.4,"Decent, but expected better fabric."
+ORD1019,2025-01-11,Tops,Crop Top,XL,1039,1,Store,3.5,"Nice product, delivery was quick."
+ORD1020,2025-01-11,Bottoms,A-Line Skirt,M,1039,3,Store,3.5,"Fabric is good, color as shown."
+ORD1021,2025-01-12,Bottoms,A-Line Skirt,M,789,4,Online,4.4,"Looks nice, happy with the purchase."
+ORD1022,2025-01-12,Tops,Cotton T-Shirt,L,459,1,Online,4.8,Absolutely love it!
+ORD1023,2025-01-13,Jeans,High-Waist Jeans,M,2259,3,Online,3.0,Fit is a little loose.
+ORD1024,2025-01-14,Tops,Casual Shirt,M,1069,2,Mobile App,4.7,Perfect fit and great quality.
+ORD1025,2025-01-15,Ethnic Wear,Salwar Suit,XXL,3469,1,Mobile App,5,Got so many compliments.
+ORD1026,2025-01-16,Tops,Crop Top,M,819,3,Mobile App,3.3,Fine for daily use.
+ORD1027,2025-01-17,Bottoms,A-Line Skirt,XXL,989,1,Mobile App,4.2,"Fabric is good, color as shown."
+ORD1028,2025-01-17,Winterwear,Woolen Sweater,L,1989,1,Mobile App,2.3,"Size runs small, had to exchange."
+ORD1029,2025-01-17,Tops,Crop Top,M,919,2,Mobile App,4.6,Got so many compliments.
+ORD1030,2025-01-18,Tops,Crop Top,M,1129,2,Mobile App,4.0,"Fabric is good, color as shown."
+ORD1031,2025-01-18,Tops,Cotton T-Shirt,M,699,1,Online,4.2,Good quality and nice fit.
+ORD1032,2025-01-19,Kurtis,Printed Kurti,XXL,1459,1,Store,2.1,Quality is not great.
+ORD1033,2025-01-19,Winterwear,Hoodie,L,1599,1,Mobile App,4.2,Value for money.
+ORD1034,2025-01-20,Dresses,Maxi Dress,S,2119,5,Online,3.3,"Decent, but expected better fabric."
+ORD1035,2025-01-22,Jeans,Wide-Leg Jeans,L,2219,4,Online,4.0,Comfortable and stylish.
+ORD1036,2025-01-22,Winterwear,Long Coat,L,5879,3,Store,5,Got so many compliments.
+ORD1037,2025-01-22,Winterwear,Woolen Sweater,L,2069,1,Online,5,Got so many compliments.
+ORD1038,2025-01-22,Tops,Crop Top,M,1179,1,Store,4.6,Absolutely love it!
+ORD1039,2025-01-23,Dresses,Bodycon Dress,M,2299,1,Online,3.1,Fit is a little loose.
+ORD1040,2025-01-23,Bottoms,Formal Trousers,M,1419,1,Mobile App,3.9,Value for money.
+ORD1041,2025-01-24,Tops,Cotton T-Shirt,S,829,1,Online,4.2,Good quality and nice fit.
+ORD1042,2025-01-25,Jeans,Skinny Jeans,L,1219,1,Store,4.6,Looks even better than the photos.
+ORD1043,2025-01-25,Ethnic Wear,Silk Saree,M,8149,1,Mobile App,3.6,"Looks nice, happy with the purchase."
+ORD1044,2025-01-26,Jeans,Skinny Jeans,M,1579,1,Mobile App,4.9,Absolutely love it!
+ORD1045,2025-01-26,Kurtis,Straight Cut Kurti,M,889,1,Store,5,Fabric feels so soft and premium.
+ORD1046,2025-01-26,Ethnic Wear,Silk Saree,L,4009,1,Online,3.9,"Looks nice, happy with the purchase."
+ORD1047,2025-01-27,Jeans,High-Waist Jeans,M,1389,2,Online,4.1,"Nice product, delivery was quick."
+ORD1048,2025-01-27,Kurtis,Printed Kurti,M,859,4,Online,4.1,"Fabric is good, color as shown."
+ORD1049,2025-01-27,Dresses,Floral Midi Dress,L,1849,1,Online,4.7,Absolutely love it!
+ORD1050,2025-01-28,Winterwear,Long Coat,XL,6039,1,Mobile App,4.4,Value for money.
+ORD1051,2025-01-30,Dresses,Party Dress,S,2199,2,Mobile App,2.4,Quality is not great.
+ORD1052,2025-01-31,Winterwear,Long Coat,L,4899,4,Mobile App,3.7,Good quality and nice fit.
+ORD1053,2025-01-31,Bottoms,A-Line Skirt,S,979,3,Online,2.2,"Size runs small, had to exchange."
+ORD1054,2025-01-31,Tops,Silk Blouse,L,1339,1,Online,5,Absolutely love it!
+ORD1055,2025-02-01,Bottoms,Formal Trousers,M,1179,2,Store,1.4,Terrible fit and bad quality.
+ORD1056,2025-02-02,Kurtis,Printed Kurti,M,1089,1,Online,3.3,"Decent, but expected better fabric."
+ORD1057,2025-02-02,Ethnic Wear,Salwar Suit,M,3899,1,Store,4.4,"Nice product, delivery was quick."
+ORD1058,2025-02-02,Winterwear,Long Coat,L,3869,1,Mobile App,4.2,Comfortable and stylish.
+ORD1059,2025-02-03,Ethnic Wear,Silk Saree,M,5029,1,Store,3.8,Value for money.
+ORD1060,2025-02-03,Jeans,Skinny Jeans,L,1089,1,Store,3.7,"Fabric is good, color as shown."
+ORD1061,2025-02-03,Bottoms,Palazzo Pants,XXL,779,4,Mobile App,4.1,"Fabric is good, color as shown."
+ORD1062,2025-02-03,Activewear,Track Jacket,S,1599,1,Store,4.4,Comfortable and stylish.
+ORD1063,2025-02-04,Dresses,Party Dress,L,4149,2,Mobile App,3.6,Value for money.
+ORD1064,2025-02-05,Dresses,Party Dress,S,2999,1,Mobile App,3.9,"Nice product, delivery was quick."
+ORD1065,2025-02-06,Activewear,Sports Bra,M,1199,1,Mobile App,3.6,Value for money.
+ORD1066,2025-02-06,Winterwear,Hoodie,S,1809,3,Online,4.7,Looks even better than the photos.
+ORD1067,2025-02-06,Ethnic Wear,Lehenga Choli,M,7749,1,Store,4.0,"Looks nice, happy with the purchase."
+ORD1068,2025-02-06,Tops,Casual Shirt,S,1259,1,Store,4.1,"Fabric is good, color as shown."
+ORD1069,2025-02-07,Ethnic Wear,Silk Saree,XXL,6119,4,Store,4.3,"Nice product, delivery was quick."
+ORD1070,2025-02-07,Tops,Casual Shirt,XL,719,2,Store,4.6,Worth every rupee.
+ORD1071,2025-02-07,Winterwear,Hoodie,M,1759,2,Store,3.4,Average quality for the price.
+ORD1072,2025-02-08,Winterwear,Woolen Sweater,XS,2739,1,Store,3.4,Average quality for the price.
+ORD1073,2025-02-08,Bottoms,Palazzo Pants,M,1289,2,Mobile App,3.5,"Nice product, delivery was quick."
+ORD1074,2025-02-09,Activewear,Sports Bra,M,719,5,Online,5,Perfect fit and great quality.
+ORD1075,2025-02-10,Tops,Silk Blouse,XL,1779,3,Online,3.4,Fit is a little loose.
+ORD1076,2025-02-10,Jeans,Wide-Leg Jeans,L,2109,3,Online,4.0,Value for money.
+ORD1077,2025-02-11,Bottoms,A-Line Skirt,L,1299,2,Mobile App,4.6,Looks even better than the photos.
+ORD1078,2025-02-11,Bottoms,Palazzo Pants,XXL,1099,1,Store,3.9,"Nice product, delivery was quick."
+ORD1079,2025-02-12,Ethnic Wear,Lehenga Choli,L,10089,2,Online,3.5,"Fabric is good, color as shown."
+ORD1080,2025-02-13,Dresses,Maxi Dress,L,2999,1,Online,5,Got so many compliments.
+ORD1081,2025-02-13,Dresses,Floral Midi Dress,L,1789,2,Mobile App,2.7,Fine for daily use.
+ORD1082,2025-02-13,Winterwear,Hoodie,M,1689,5,Store,3.8,Comfortable and stylish.
+ORD1083,2025-02-13,Ethnic Wear,Silk Saree,S,3419,2,Store,4.0,Good quality and nice fit.
+ORD1084,2025-02-15,Tops,Cotton T-Shirt,L,989,1,Online,3.4,Average quality for the price.
+ORD1085,2025-02-15,Kurtis,Printed Kurti,XL,959,2,Online,2.9,Fit is a little loose.
+ORD1086,2025-02-15,Bottoms,A-Line Skirt,M,759,1,Mobile App,4.0,Good quality and nice fit.
+ORD1087,2025-02-15,Bottoms,Formal Trousers,L,1279,1,Online,5,Perfect fit and great quality.
+ORD1088,2025-02-16,Ethnic Wear,Silk Saree,XL,4369,5,Mobile App,4.4,Value for money.
+ORD1089,2025-02-16,Ethnic Wear,Silk Saree,M,8609,2,Store,3.2,Fit is a little loose.
+ORD1090,2025-02-17,Jeans,Skinny Jeans,L,1599,1,Store,4.1,"Nice product, delivery was quick."
+ORD1091,2025-02-18,Tops,Cotton T-Shirt,S,439,1,Mobile App,2.5,"Size runs small, had to exchange."
+ORD1092,2025-02-19,Winterwear,Long Coat,XS,6199,2,Store,5,Got so many compliments.
+ORD1093,2025-02-19,Kurtis,Printed Kurti,M,649,1,Mobile App,4.0,"Fabric is good, color as shown."
+ORD1094,2025-02-19,Jeans,High-Waist Jeans,S,2099,2,Mobile App,3.7,Good quality and nice fit.
+ORD1095,2025-02-19,Activewear,Yoga Leggings,XS,1379,2,Store,3.6,"Nice product, delivery was quick."
+ORD1096,2025-02-20,Bottoms,Formal Trousers,XXL,1899,2,Store,3.1,"It is okay, nothing special."
+ORD1097,2025-02-20,Winterwear,Long Coat,M,6479,3,Store,5,Fabric feels so soft and premium.
+ORD1098,2025-02-21,Winterwear,Woolen Sweater,L,2379,1,Store,3.6,"Fabric is good, color as shown."
+ORD1099,2025-02-21,Ethnic Wear,Silk Saree,M,5879,1,Mobile App,3.4,Average quality for the price.
+ORD1100,2025-02-21,Jeans,Wide-Leg Jeans,M,1519,2,Store,4.5,"Fabric is good, color as shown."
+ORD1101,2025-02-22,Tops,Crop Top,XXL,809,3,Online,3.7,Comfortable and stylish.
+ORD1102,2025-02-22,Winterwear,Woolen Sweater,L,1499,1,Online,4.2,"Looks nice, happy with the purchase."
+ORD1103,2025-02-22,Dresses,Party Dress,L,4879,5,Store,3.6,"Nice product, delivery was quick."
+ORD1104,2025-02-23,Kurtis,Straight Cut Kurti,L,1579,1,Store,3.2,"Decent, but expected better fabric."
+ORD1105,2025-02-24,Tops,Cotton T-Shirt,M,829,1,Mobile App,4.4,"Looks nice, happy with the purchase."
+ORD1106,2025-02-24,Kurtis,Printed Kurti,M,699,2,Mobile App,5,Worth every rupee.
+ORD1107,2025-02-24,Bottoms,Palazzo Pants,M,1099,1,Store,5,Worth every rupee.
+ORD1108,2025-02-24,Tops,Crop Top,L,629,1,Mobile App,4.4,Value for money.
+ORD1109,2025-02-25,Dresses,Party Dress,M,3019,1,Online,3.8,"Fabric is good, color as shown."
+ORD1110,2025-02-25,Ethnic Wear,Silk Saree,L,8799,1,Online,3.3,Fine for daily use.
+ORD1111,2025-02-25,Winterwear,Woolen Sweater,L,2109,1,Online,4.5,Value for money.
+ORD1112,2025-02-26,Winterwear,Woolen Sweater,XL,2369,1,Store,4.9,Fabric feels so soft and premium.
+ORD1113,2025-02-27,Jeans,High-Waist Jeans,XS,2039,1,Mobile App,5,Worth every rupee.
+ORD1114,2025-02-28,Winterwear,Hoodie,L,1299,1,Store,3.3,Color is slightly different from the picture.
+ORD1115,2025-02-28,Winterwear,Woolen Sweater,L,1569,2,Mobile App,3.8,"Fabric is good, color as shown."
+ORD1116,2025-02-28,Winterwear,Hoodie,M,1139,1,Store,5,Fabric feels so soft and premium.
+ORD1117,2025-03-01,Tops,Cotton T-Shirt,M,539,1,Online,3.6,Value for money.
+ORD1118,2025-03-02,Kurtis,Straight Cut Kurti,L,969,2,Online,4.4,Value for money.
+ORD1119,2025-03-03,Tops,Crop Top,L,699,1,Mobile App,4.0,"Looks nice, happy with the purchase."
+ORD1120,2025-03-04,Bottoms,A-Line Skirt,M,739,4,Mobile App,5,Looks even better than the photos.
+ORD1121,2025-03-05,Ethnic Wear,Salwar Suit,M,4449,4,Mobile App,2.8,Fit is a little loose.
+ORD1122,2025-03-05,Bottoms,Palazzo Pants,M,1199,2,Store,4.7,Fabric feels so soft and premium.
+ORD1123,2025-03-05,Tops,Crop Top,M,589,1,Store,3.3,"It is okay, nothing special."
+ORD1124,2025-03-06,Jeans,Wide-Leg Jeans,L,2599,3,Store,2.4,Color faded after the first wash.
+ORD1125,2025-03-07,Activewear,Sports Bra,XL,1139,2,Mobile App,4.1,Value for money.
+ORD1126,2025-03-08,Dresses,Floral Midi Dress,XS,2399,1,Online,4.5,Comfortable and stylish.
+ORD1127,2025-03-08,Winterwear,Woolen Sweater,L,1599,3,Mobile App,3.2,"Decent, but expected better fabric."
+ORD1128,2025-03-09,Activewear,Yoga Leggings,M,689,1,Mobile App,4.3,Value for money.
+ORD1129,2025-03-10,Winterwear,Hoodie,L,1539,2,Store,3.2,"It is okay, nothing special."
+ORD1130,2025-03-10,Bottoms,Formal Trousers,S,1609,1,Online,4.8,Absolutely love it!
+ORD1131,2025-03-10,Tops,Silk Blouse,S,2249,2,Store,4.0,Value for money.
+ORD1132,2025-03-11,Tops,Crop Top,L,899,3,Store,4.4,"Nice product, delivery was quick."
+ORD1133,2025-03-12,Dresses,Floral Midi Dress,XXL,1709,1,Online,5,Fabric feels so soft and premium.
+ORD1134,2025-03-12,Jeans,Skinny Jeans,M,1629,2,Online,5,Got so many compliments.
+ORD1135,2025-03-13,Kurtis,Straight Cut Kurti,XXL,1509,5,Online,3.8,Good quality and nice fit.
+ORD1136,2025-03-14,Kurtis,Printed Kurti,XL,1369,5,Mobile App,3.3,Fine for daily use.
+ORD1137,2025-03-15,Dresses,Floral Midi Dress,M,1899,1,Mobile App,3.6,"Nice product, delivery was quick."
+ORD1138,2025-03-15,Tops,Cotton T-Shirt,M,849,1,Store,5,Worth every rupee.
+ORD1139,2025-03-18,Bottoms,Formal Trousers,S,969,3,Store,3.6,Comfortable and stylish.
+ORD1140,2025-03-19,Ethnic Wear,Salwar Suit,XXL,1749,1,Online,4.6,Worth every rupee.
+ORD1141,2025-03-19,Kurtis,Anarkali Kurti,M,2039,2,Mobile App,5,Looks even better than the photos.
+ORD1142,2025-03-19,Bottoms,Palazzo Pants,XS,599,4,Mobile App,3.5,Comfortable and stylish.
+ORD1143,2025-03-19,Tops,Cotton T-Shirt,M,449,5,Online,5,Got so many compliments.
+ORD1144,2025-03-20,Winterwear,Long Coat,L,3479,1,Mobile App,2.9,Average quality for the price.
+ORD1145,2025-03-20,Jeans,Wide-Leg Jeans,L,1649,2,Mobile App,3.2,Fit is a little loose.
+ORD1146,2025-03-20,Kurtis,Straight Cut Kurti,XXL,1459,1,Store,3.8,Comfortable and stylish.
+ORD1147,2025-03-20,Tops,Crop Top,XXL,549,2,Store,4.5,Value for money.
+ORD1148,2025-03-21,Kurtis,Anarkali Kurti,M,1639,4,Online,5,Looks even better than the photos.
+ORD1149,2025-03-21,Tops,Silk Blouse,XS,1859,1,Mobile App,5,Looks even better than the photos.
+ORD1150,2025-03-21,Dresses,Maxi Dress,M,1719,1,Store,3.3,"It is okay, nothing special."
+ORD1151,2025-03-21,Dresses,Party Dress,M,2559,1,Store,4.5,Good quality and nice fit.
+ORD1152,2025-03-22,Jeans,Wide-Leg Jeans,M,2389,5,Store,4.2,Comfortable and stylish.
+ORD1153,2025-03-23,Jeans,Wide-Leg Jeans,M,1979,2,Online,4.6,Perfect fit and great quality.
+ORD1154,2025-03-23,Dresses,Maxi Dress,L,1709,1,Online,2.8,"Decent, but expected better fabric."
+ORD1155,2025-03-24,Tops,Crop Top,S,829,4,Mobile App,4.7,Fabric feels so soft and premium.
+ORD1156,2025-03-24,Kurtis,Anarkali Kurti,M,2699,1,Mobile App,5,Looks even better than the photos.
+ORD1157,2025-03-25,Tops,Crop Top,L,969,1,Mobile App,5,Fabric feels so soft and premium.
+ORD1158,2025-03-25,Jeans,Skinny Jeans,L,1369,3,Online,3.0,Fine for daily use.
+ORD1159,2025-03-25,Jeans,High-Waist Jeans,M,1729,2,Online,3.8,Value for money.
+ORD1160,2025-03-25,Bottoms,Palazzo Pants,L,1489,1,Online,4.5,"Fabric is good, color as shown."
+ORD1161,2025-03-26,Kurtis,Straight Cut Kurti,L,969,2,Online,4.6,Worth every rupee.
+ORD1162,2025-03-26,Jeans,High-Waist Jeans,M,1719,4,Store,5,Absolutely love it!
+ORD1163,2025-03-27,Kurtis,Anarkali Kurti,S,2499,3,Mobile App,4.6,Got so many compliments.
+ORD1164,2025-03-28,Winterwear,Hoodie,L,1009,1,Store,4.3,Comfortable and stylish.
+ORD1165,2025-03-29,Ethnic Wear,Silk Saree,XL,3929,1,Mobile App,4.7,Got so many compliments.
+ORD1166,2025-03-30,Ethnic Wear,Salwar Suit,M,3769,1,Online,4.6,Fabric feels so soft and premium.
+ORD1167,2025-03-30,Bottoms,Palazzo Pants,S,799,3,Online,4.6,Perfect fit and great quality.
+ORD1168,2025-04-02,Dresses,Maxi Dress,XL,3119,1,Store,5,Looks even better than the photos.
+ORD1169,2025-04-03,Kurtis,Anarkali Kurti,S,1249,1,Store,4.8,Absolutely love it!
+ORD1170,2025-04-03,Dresses,Maxi Dress,XL,3089,2,Mobile App,2.4,"Size runs small, had to exchange."
+ORD1171,2025-04-04,Bottoms,A-Line Skirt,XL,1459,2,Store,4.9,Got so many compliments.
+ORD1172,2025-04-05,Dresses,Bodycon Dress,M,1759,3,Store,3.4,Fit is a little loose.
+ORD1173,2025-04-08,Activewear,Yoga Leggings,S,899,1,Mobile App,5,Worth every rupee.
+ORD1174,2025-04-08,Kurtis,Straight Cut Kurti,XL,959,1,Mobile App,3.1,Fine for daily use.
+ORD1175,2025-04-08,Dresses,Bodycon Dress,M,2069,2,Store,4.0,"Nice product, delivery was quick."
+ORD1176,2025-04-09,Winterwear,Hoodie,M,1039,2,Online,4.4,Comfortable and stylish.
+ORD1177,2025-04-10,Activewear,Yoga Leggings,XXL,899,1,Mobile App,4.3,Value for money.
+ORD1178,2025-04-10,Tops,Silk Blouse,M,1299,1,Online,4.0,"Nice product, delivery was quick."
+ORD1179,2025-04-11,Winterwear,Hoodie,S,2129,1,Mobile App,3.2,Average quality for the price.
+ORD1180,2025-04-11,Tops,Silk Blouse,L,2239,1,Store,2.5,Not as shown in the photos.
+ORD1181,2025-04-13,Activewear,Track Jacket,XL,1639,1,Store,3.6,Good quality and nice fit.
+ORD1182,2025-04-13,Tops,Cotton T-Shirt,M,439,1,Store,3.7,Value for money.
+ORD1183,2025-04-13,Tops,Casual Shirt,L,819,1,Online,4.4,"Nice product, delivery was quick."
+ORD1184,2025-04-14,Bottoms,A-Line Skirt,XL,1399,4,Store,4.5,Good quality and nice fit.
+ORD1185,2025-04-14,Jeans,Skinny Jeans,XS,2059,1,Mobile App,3.0,"Decent, but expected better fabric."
+ORD1186,2025-04-15,Kurtis,Printed Kurti,XL,869,2,Store,4.3,"Nice product, delivery was quick."
+ORD1187,2025-04-15,Bottoms,A-Line Skirt,L,1119,2,Online,5,Fabric feels so soft and premium.
+ORD1188,2025-04-16,Ethnic Wear,Silk Saree,M,2979,2,Mobile App,2.5,Not as shown in the photos.
+ORD1189,2025-04-18,Activewear,Yoga Leggings,L,1429,2,Store,3.4,Average quality for the price.
+ORD1190,2025-04-18,Dresses,Maxi Dress,XL,2869,2,Online,4.3,Value for money.
+ORD1191,2025-04-18,Ethnic Wear,Lehenga Choli,S,6639,2,Mobile App,3.5,"Looks nice, happy with the purchase."
+ORD1192,2025-04-18,Jeans,Wide-Leg Jeans,L,1729,2,Online,5,Looks even better than the photos.
+ORD1193,2025-04-19,Bottoms,Palazzo Pants,L,1489,2,Store,3.0,"It is okay, nothing special."
+ORD1194,2025-04-19,Tops,Crop Top,L,519,2,Online,4.4,"Fabric is good, color as shown."
+ORD1195,2025-04-20,Ethnic Wear,Salwar Suit,M,1759,1,Store,4.9,Looks even better than the photos.
+ORD1196,2025-04-21,Ethnic Wear,Silk Saree,L,5179,1,Store,3.7,"Fabric is good, color as shown."
+ORD1197,2025-04-22,Dresses,Maxi Dress,XS,1979,2,Online,4.8,Got so many compliments.
+ORD1198,2025-04-22,Jeans,Wide-Leg Jeans,XL,1459,2,Online,3.6,"Fabric is good, color as shown."
+ORD1199,2025-04-23,Activewear,Track Jacket,M,1999,1,Mobile App,3.8,"Fabric is good, color as shown."
+ORD1200,2025-04-23,Dresses,Maxi Dress,L,2099,1,Mobile App,4.1,"Nice product, delivery was quick."
+ORD1201,2025-04-23,Tops,Cotton T-Shirt,XL,989,3,Store,4.0,"Looks nice, happy with the purchase."
+ORD1202,2025-04-24,Activewear,Yoga Leggings,S,1259,1,Mobile App,3.4,Color is slightly different from the picture.
+ORD1203,2025-04-24,Jeans,Skinny Jeans,S,1879,1,Mobile App,3.7,"Nice product, delivery was quick."
+ORD1204,2025-04-25,Kurtis,Printed Kurti,M,1459,1,Mobile App,3.0,Fit is a little loose.
+ORD1205,2025-04-26,Tops,Casual Shirt,L,1349,2,Mobile App,3.9,Value for money.
+ORD1206,2025-04-27,Ethnic Wear,Silk Saree,S,8569,2,Online,3.7,"Looks nice, happy with the purchase."
+ORD1207,2025-04-28,Winterwear,Woolen Sweater,M,1259,3,Online,3.9,"Looks nice, happy with the purchase."
+ORD1208,2025-04-28,Dresses,Maxi Dress,S,1639,4,Mobile App,4.2,"Fabric is good, color as shown."
+ORD1209,2025-04-29,Tops,Crop Top,XL,969,2,Store,2.9,Fit is a little loose.
+ORD1210,2025-04-29,Tops,Cotton T-Shirt,L,929,1,Mobile App,4.7,Absolutely love it!
+ORD1211,2025-04-29,Winterwear,Long Coat,L,5759,1,Store,3.4,Average quality for the price.
+ORD1212,2025-04-29,Dresses,Bodycon Dress,L,1779,2,Store,3.0,Color is slightly different from the picture.
+ORD1213,2025-04-30,Jeans,High-Waist Jeans,L,2379,1,Mobile App,4.4,Comfortable and stylish.
+ORD1214,2025-04-30,Kurtis,Printed Kurti,M,689,1,Store,4.3,"Fabric is good, color as shown."
+ORD1215,2025-05-01,Ethnic Wear,Silk Saree,S,8009,1,Store,4.2,Value for money.
+ORD1216,2025-05-01,Tops,Cotton T-Shirt,S,839,1,Store,4.1,Value for money.
+ORD1217,2025-05-02,Ethnic Wear,Lehenga Choli,XL,12369,3,Store,3.2,Fine for daily use.
+ORD1218,2025-05-04,Ethnic Wear,Silk Saree,L,4189,1,Store,3.0,"Decent, but expected better fabric."
+ORD1219,2025-05-05,Dresses,Bodycon Dress,S,2419,2,Online,5,Worth every rupee.
+ORD1220,2025-05-06,Dresses,Party Dress,L,2909,1,Mobile App,5,Looks even better than the photos.
+ORD1221,2025-05-06,Ethnic Wear,Silk Saree,L,8559,1,Online,3.1,Average quality for the price.
+ORD1222,2025-05-07,Ethnic Wear,Silk Saree,M,8299,1,Mobile App,2.6,"Decent, but expected better fabric."
+ORD1223,2025-05-07,Tops,Silk Blouse,L,2679,1,Store,4.7,Looks even better than the photos.
+ORD1224,2025-05-07,Ethnic Wear,Lehenga Choli,M,10999,1,Store,5,Looks even better than the photos.
+ORD1225,2025-05-08,Tops,Casual Shirt,L,1589,4,Online,2.5,Not as shown in the photos.
+ORD1226,2025-05-09,Bottoms,Formal Trousers,M,1829,3,Online,4.2,"Fabric is good, color as shown."
+ORD1227,2025-05-09,Bottoms,Formal Trousers,L,1199,3,Store,4.2,"Looks nice, happy with the purchase."
+ORD1228,2025-05-10,Jeans,High-Waist Jeans,S,1829,2,Mobile App,4.1,Good quality and nice fit.
+ORD1229,2025-05-11,Activewear,Yoga Leggings,S,1219,1,Store,5,Perfect fit and great quality.
+ORD1230,2025-05-12,Kurtis,Straight Cut Kurti,XXL,1049,1,Online,5,Worth every rupee.
+ORD1231,2025-05-12,Ethnic Wear,Salwar Suit,L,1699,1,Online,4.2,Good quality and nice fit.
+ORD1232,2025-05-13,Jeans,High-Waist Jeans,L,1899,1,Store,3.5,Value for money.
+ORD1233,2025-05-13,Ethnic Wear,Lehenga Choli,XXL,10859,1,Online,3.9,Comfortable and stylish.
+ORD1234,2025-05-13,Kurtis,Straight Cut Kurti,L,889,2,Store,4.1,"Looks nice, happy with the purchase."
+ORD1235,2025-05-14,Tops,Cotton T-Shirt,M,769,2,Store,4.4,"Nice product, delivery was quick."
+ORD1236,2025-05-14,Activewear,Yoga Leggings,S,1159,4,Store,3.3,Average quality for the price.
+ORD1237,2025-05-14,Tops,Casual Shirt,XL,859,1,Store,5,Fabric feels so soft and premium.
+ORD1238,2025-05-15,Dresses,Bodycon Dress,M,1169,1,Mobile App,4.3,"Looks nice, happy with the purchase."
+ORD1239,2025-05-16,Kurtis,Anarkali Kurti,L,2799,3,Mobile App,3.7,"Nice product, delivery was quick."
+ORD1240,2025-05-16,Activewear,Yoga Leggings,L,999,1,Store,3.5,Comfortable and stylish.
+ORD1241,2025-05-16,Ethnic Wear,Salwar Suit,M,3999,1,Store,4.6,Fabric feels so soft and premium.
+ORD1242,2025-05-16,Tops,Silk Blouse,XL,2249,1,Store,4.6,Got so many compliments.
+ORD1243,2025-05-16,Tops,Crop Top,M,709,1,Online,4.8,Absolutely love it!
+ORD1244,2025-05-17,Kurtis,Straight Cut Kurti,L,1419,4,Mobile App,4.6,Got so many compliments.
+ORD1245,2025-05-17,Bottoms,Formal Trousers,XL,1069,2,Mobile App,5,Fabric feels so soft and premium.
+ORD1246,2025-05-17,Tops,Silk Blouse,M,2109,1,Mobile App,4.9,Perfect fit and great quality.
+ORD1247,2025-05-17,Ethnic Wear,Salwar Suit,XL,3979,2,Store,3.9,"Nice product, delivery was quick."
+ORD1248,2025-05-17,Tops,Cotton T-Shirt,XL,839,1,Online,3.6,Good quality and nice fit.
+ORD1249,2025-05-18,Bottoms,Formal Trousers,M,979,2,Store,4.4,"Looks nice, happy with the purchase."
+ORD1250,2025-05-18,Dresses,Party Dress,M,4019,1,Online,4.3,Comfortable and stylish.
+ORD1251,2025-05-20,Activewear,Yoga Leggings,L,889,2,Online,2.4,Fabric feels thin and cheap.
+ORD1252,2025-05-20,Tops,Casual Shirt,XL,1209,2,Mobile App,3.0,Fit is a little loose.
+ORD1253,2025-05-20,Dresses,Floral Midi Dress,XXL,2219,4,Online,4.5,"Fabric is good, color as shown."
+ORD1254,2025-05-20,Bottoms,Formal Trousers,S,1179,1,Mobile App,4.0,"Looks nice, happy with the purchase."
+ORD1255,2025-05-21,Dresses,Bodycon Dress,M,1429,2,Online,4.7,Perfect fit and great quality.
+ORD1256,2025-05-21,Kurtis,Anarkali Kurti,XL,2979,3,Mobile App,3.8,"Looks nice, happy with the purchase."
+ORD1257,2025-05-22,Tops,Casual Shirt,XXL,1439,2,Online,4.1,Comfortable and stylish.
+ORD1258,2025-05-22,Bottoms,Palazzo Pants,M,1389,3,Mobile App,3.8,Comfortable and stylish.
+ORD1259,2025-05-22,Kurtis,Anarkali Kurti,XXL,1589,5,Store,3.7,Good quality and nice fit.
+ORD1260,2025-05-23,Kurtis,Anarkali Kurti,M,2739,4,Online,4.1,"Fabric is good, color as shown."
+ORD1261,2025-05-24,Bottoms,Formal Trousers,S,969,1,Online,4.1,"Nice product, delivery was quick."
+ORD1262,2025-05-24,Dresses,Maxi Dress,L,3259,3,Mobile App,4.4,Good quality and nice fit.
+ORD1263,2025-05-24,Bottoms,Formal Trousers,L,1709,1,Online,3.8,Value for money.
+ORD1264,2025-05-25,Tops,Silk Blouse,L,2089,1,Mobile App,3.4,Fit is a little loose.
+ORD1265,2025-05-25,Tops,Cotton T-Shirt,XL,849,1,Online,3.4,Color is slightly different from the picture.
+ORD1266,2025-05-26,Bottoms,Palazzo Pants,L,1209,3,Online,3.6,Value for money.
+ORD1267,2025-05-27,Tops,Cotton T-Shirt,S,639,1,Online,3.6,"Fabric is good, color as shown."
+ORD1268,2025-05-27,Dresses,Party Dress,L,2309,2,Store,4.3,"Fabric is good, color as shown."
+ORD1269,2025-05-28,Tops,Casual Shirt,XS,1339,1,Store,5,Absolutely love it!
+ORD1270,2025-05-29,Tops,Silk Blouse,L,2469,1,Online,5,Perfect fit and great quality.
+ORD1271,2025-05-29,Ethnic Wear,Silk Saree,S,7999,1,Mobile App,3.9,Value for money.
+ORD1272,2025-05-31,Tops,Silk Blouse,XL,2229,3,Mobile App,4.7,Fabric feels so soft and premium.
+ORD1273,2025-05-31,Kurtis,Anarkali Kurti,M,2449,4,Mobile App,3.4,Color is slightly different from the picture.
+ORD1274,2025-06-01,Jeans,Wide-Leg Jeans,XL,1899,1,Store,4.7,Fabric feels so soft and premium.
+ORD1275,2025-06-01,Kurtis,Straight Cut Kurti,S,1519,1,Store,3.7,"Looks nice, happy with the purchase."
+ORD1276,2025-06-02,Kurtis,Anarkali Kurti,S,2959,2,Mobile App,3.1,"It is okay, nothing special."
+ORD1277,2025-06-03,Jeans,Wide-Leg Jeans,XL,1829,3,Mobile App,4.9,Got so many compliments.
+ORD1278,2025-06-04,Tops,Crop Top,S,509,2,Online,2.9,"It is okay, nothing special."
+ORD1279,2025-06-04,Tops,Casual Shirt,XS,1389,2,Mobile App,3.2,Fit is a little loose.
+ORD1280,2025-06-04,Tops,Cotton T-Shirt,L,829,2,Store,4.1,Value for money.
+ORD1281,2025-06-04,Kurtis,Straight Cut Kurti,S,939,5,Store,4.6,Looks even better than the photos.
+ORD1282,2025-06-05,Tops,Cotton T-Shirt,M,689,1,Store,4.2,"Fabric is good, color as shown."
+ORD1283,2025-06-05,Bottoms,Formal Trousers,L,1939,2,Store,4.5,Comfortable and stylish.
+ORD1284,2025-06-06,Kurtis,Printed Kurti,M,1059,1,Mobile App,5,Worth every rupee.
+ORD1285,2025-06-07,Kurtis,Printed Kurti,M,1399,1,Mobile App,4.2,Comfortable and stylish.
+ORD1286,2025-06-07,Tops,Cotton T-Shirt,M,709,2,Online,3.5,Good quality and nice fit.
+ORD1287,2025-06-08,Dresses,Maxi Dress,XL,2639,1,Online,3.7,"Nice product, delivery was quick."
+ORD1288,2025-06-08,Tops,Cotton T-Shirt,M,479,2,Store,4.4,Value for money.
+ORD1289,2025-06-08,Bottoms,A-Line Skirt,S,929,1,Online,3.8,Good quality and nice fit.
+ORD1290,2025-06-08,Ethnic Wear,Salwar Suit,S,2919,1,Online,4.4,"Fabric is good, color as shown."
+ORD1291,2025-06-09,Dresses,Maxi Dress,XXL,2679,2,Store,3.7,"Nice product, delivery was quick."
+ORD1292,2025-06-09,Jeans,Wide-Leg Jeans,XXL,1539,2,Store,4.2,Value for money.
+ORD1293,2025-06-11,Bottoms,Formal Trousers,M,1329,2,Store,2.6,Average quality for the price.
+ORD1294,2025-06-11,Dresses,Maxi Dress,XXL,2019,1,Store,4.5,Value for money.
+ORD1295,2025-06-11,Tops,Silk Blouse,M,2099,2,Online,3.9,"Looks nice, happy with the purchase."
+ORD1296,2025-06-12,Bottoms,Palazzo Pants,XXL,669,2,Online,3.0,Average quality for the price.
+ORD1297,2025-06-13,Kurtis,Printed Kurti,S,699,3,Store,3.2,Color is slightly different from the picture.
+ORD1298,2025-06-13,Kurtis,Straight Cut Kurti,L,859,1,Mobile App,2.9,"Decent, but expected better fabric."
+ORD1299,2025-06-13,Kurtis,Straight Cut Kurti,L,1409,1,Store,4.5,"Looks nice, happy with the purchase."
+ORD1300,2025-06-13,Dresses,Bodycon Dress,M,1419,1,Mobile App,4.5,"Looks nice, happy with the purchase."
+ORD1301,2025-06-13,Tops,Silk Blouse,M,2789,4,Store,4.7,Fabric feels so soft and premium.
+ORD1302,2025-06-14,Ethnic Wear,Silk Saree,L,4529,1,Store,3.9,Good quality and nice fit.
+ORD1303,2025-06-14,Dresses,Bodycon Dress,L,1489,1,Store,3.8,"Fabric is good, color as shown."
+ORD1304,2025-06-14,Bottoms,Formal Trousers,XXL,1679,4,Store,4.5,Comfortable and stylish.
+ORD1305,2025-06-14,Bottoms,Palazzo Pants,S,1119,1,Mobile App,5,Worth every rupee.
+ORD1306,2025-06-16,Bottoms,Palazzo Pants,M,1409,1,Store,3.5,Value for money.
+ORD1307,2025-06-16,Tops,Silk Blouse,L,2459,2,Online,4.3,"Nice product, delivery was quick."
+ORD1308,2025-06-16,Bottoms,Formal Trousers,M,1469,1,Online,3.6,Value for money.
+ORD1309,2025-06-16,Dresses,Party Dress,XL,3949,1,Store,5,Worth every rupee.
+ORD1310,2025-06-17,Dresses,Party Dress,S,3699,1,Mobile App,4.3,Comfortable and stylish.
+ORD1311,2025-06-17,Kurtis,Printed Kurti,M,1279,1,Mobile App,4.5,"Fabric is good, color as shown."
+ORD1312,2025-06-17,Tops,Crop Top,XXL,1089,2,Store,4.2,"Fabric is good, color as shown."
+ORD1313,2025-06-17,Bottoms,A-Line Skirt,XS,789,2,Online,1.9,Fabric feels thin and cheap.
+ORD1314,2025-06-18,Bottoms,Formal Trousers,S,1819,2,Online,3.6,Value for money.
+ORD1315,2025-06-19,Bottoms,Formal Trousers,S,1579,1,Mobile App,4.8,Worth every rupee.
+ORD1316,2025-06-20,Tops,Casual Shirt,M,1559,2,Mobile App,4.2,Value for money.
+ORD1317,2025-06-20,Bottoms,A-Line Skirt,S,1199,1,Store,3.8,"Nice product, delivery was quick."
+ORD1318,2025-06-21,Dresses,Maxi Dress,L,2079,1,Mobile App,4.1,"Fabric is good, color as shown."
+ORD1319,2025-06-21,Dresses,Maxi Dress,M,2209,3,Online,4.6,Perfect fit and great quality.
+ORD1320,2025-06-22,Activewear,Yoga Leggings,L,1409,1,Online,3.3,Average quality for the price.
+ORD1321,2025-06-22,Tops,Silk Blouse,M,2419,2,Mobile App,3.2,"It is okay, nothing special."
+ORD1322,2025-06-23,Tops,Cotton T-Shirt,S,419,2,Online,3.3,"It is okay, nothing special."
+ORD1323,2025-06-23,Activewear,Sports Bra,M,859,1,Online,4.7,Got so many compliments.
+ORD1324,2025-06-23,Kurtis,Printed Kurti,L,709,2,Online,5,Looks even better than the photos.
+ORD1325,2025-06-24,Kurtis,Printed Kurti,XXL,1219,2,Store,3.1,Fit is a little loose.
+ORD1326,2025-06-25,Bottoms,Palazzo Pants,S,1099,1,Store,5,Absolutely love it!
+ORD1327,2025-06-26,Dresses,Bodycon Dress,M,2489,3,Mobile App,4.3,Good quality and nice fit.
+ORD1328,2025-06-26,Activewear,Yoga Leggings,M,1039,1,Store,3.5,Good quality and nice fit.
+ORD1329,2025-06-29,Dresses,Maxi Dress,L,1959,2,Online,4.2,"Looks nice, happy with the purchase."
+ORD1330,2025-06-29,Tops,Casual Shirt,XXL,1159,1,Store,4.5,"Nice product, delivery was quick."
+ORD1331,2025-06-29,Ethnic Wear,Lehenga Choli,L,7489,2,Online,4.5,Good quality and nice fit.
+ORD1332,2025-07-01,Dresses,Bodycon Dress,L,1869,1,Mobile App,4.2,Good quality and nice fit.
+ORD1333,2025-07-01,Jeans,Wide-Leg Jeans,M,1559,2,Online,2.7,"Decent, but expected better fabric."
+ORD1334,2025-07-02,Bottoms,Formal Trousers,L,1359,2,Store,4.3,"Looks nice, happy with the purchase."
+ORD1335,2025-07-02,Jeans,High-Waist Jeans,S,1459,2,Online,4.1,Comfortable and stylish.
+ORD1336,2025-07-03,Bottoms,Palazzo Pants,L,809,2,Store,3.8,Value for money.
+ORD1337,2025-07-03,Activewear,Yoga Leggings,L,1429,1,Online,3.1,Fine for daily use.
+ORD1338,2025-07-03,Activewear,Track Jacket,XL,1939,2,Mobile App,3.7,"Fabric is good, color as shown."
+ORD1339,2025-07-04,Jeans,Wide-Leg Jeans,M,1409,1,Online,3.3,"Decent, but expected better fabric."
+ORD1340,2025-07-04,Dresses,Maxi Dress,M,2939,1,Online,3.4,Fine for daily use.
+ORD1341,2025-07-04,Tops,Silk Blouse,M,2219,1,Mobile App,4.5,Good quality and nice fit.
+ORD1342,2025-07-06,Kurtis,Anarkali Kurti,L,2579,2,Store,5,Perfect fit and great quality.
+ORD1343,2025-07-07,Bottoms,Formal Trousers,M,1079,3,Mobile App,5,Got so many compliments.
+ORD1344,2025-07-07,Ethnic Wear,Lehenga Choli,L,9699,1,Online,3.3,Fit is a little loose.
+ORD1345,2025-07-08,Kurtis,Anarkali Kurti,L,1539,2,Online,5,Fabric feels so soft and premium.
+ORD1346,2025-07-08,Activewear,Sports Bra,L,1219,1,Mobile App,3.2,"It is okay, nothing special."
+ORD1347,2025-07-09,Jeans,Wide-Leg Jeans,M,1439,2,Store,3.8,"Fabric is good, color as shown."
+ORD1348,2025-07-09,Dresses,Bodycon Dress,L,2369,4,Mobile App,3.7,"Looks nice, happy with the purchase."
+ORD1349,2025-07-10,Tops,Casual Shirt,L,1169,2,Online,4.3,Good quality and nice fit.
+ORD1350,2025-07-10,Jeans,High-Waist Jeans,L,2039,2,Mobile App,2.8,"Decent, but expected better fabric."
+ORD1351,2025-07-11,Jeans,Wide-Leg Jeans,M,1409,2,Online,4.4,Value for money.
+ORD1352,2025-07-11,Jeans,Wide-Leg Jeans,XS,1329,3,Online,4.0,"Nice product, delivery was quick."
+ORD1353,2025-07-12,Tops,Crop Top,S,1169,1,Store,2.5,Color faded after the first wash.
+ORD1354,2025-07-13,Tops,Casual Shirt,M,1279,1,Store,4.6,Looks even better than the photos.
+ORD1355,2025-07-13,Tops,Casual Shirt,M,919,1,Online,4.6,Worth every rupee.
+ORD1356,2025-07-14,Ethnic Wear,Salwar Suit,L,2099,3,Online,4.1,Good quality and nice fit.
+ORD1357,2025-07-14,Kurtis,Anarkali Kurti,M,2149,2,Store,3.6,"Fabric is good, color as shown."
+ORD1358,2025-07-15,Ethnic Wear,Salwar Suit,S,4109,4,Online,4.1,"Fabric is good, color as shown."
+ORD1359,2025-07-15,Tops,Silk Blouse,M,2519,2,Mobile App,4.1,"Fabric is good, color as shown."
+ORD1360,2025-07-16,Dresses,Party Dress,XL,2609,1,Mobile App,4.2,"Nice product, delivery was quick."
+ORD1361,2025-07-16,Dresses,Party Dress,L,2559,1,Mobile App,4.7,Perfect fit and great quality.
+ORD1362,2025-07-17,Bottoms,A-Line Skirt,XL,1399,3,Mobile App,4.8,Perfect fit and great quality.
+ORD1363,2025-07-17,Dresses,Bodycon Dress,S,1269,1,Mobile App,5,Got so many compliments.
+ORD1364,2025-07-18,Bottoms,Palazzo Pants,M,1479,3,Mobile App,4.0,"Nice product, delivery was quick."
+ORD1365,2025-07-18,Ethnic Wear,Lehenga Choli,L,10819,4,Online,4.7,Got so many compliments.
+ORD1366,2025-07-19,Dresses,Bodycon Dress,L,2199,4,Store,5,Absolutely love it!
+ORD1367,2025-07-19,Bottoms,A-Line Skirt,XL,1569,3,Mobile App,4.2,"Nice product, delivery was quick."
+ORD1368,2025-07-21,Jeans,Wide-Leg Jeans,S,1449,2,Mobile App,3.5,"Looks nice, happy with the purchase."
+ORD1369,2025-07-22,Tops,Casual Shirt,S,1539,1,Mobile App,4.1,Good quality and nice fit.
+ORD1370,2025-07-22,Ethnic Wear,Lehenga Choli,XL,4479,2,Store,3.9,Value for money.
+ORD1371,2025-07-23,Dresses,Party Dress,L,3289,2,Store,4.0,Value for money.
+ORD1372,2025-07-24,Dresses,Floral Midi Dress,S,1969,1,Store,3.2,Fit is a little loose.
+ORD1373,2025-07-24,Kurtis,Anarkali Kurti,M,2049,2,Store,3.5,"Nice product, delivery was quick."
+ORD1374,2025-07-24,Activewear,Sports Bra,M,629,2,Online,3.6,Comfortable and stylish.
+ORD1375,2025-07-26,Dresses,Maxi Dress,L,2549,2,Store,4.9,Looks even better than the photos.
+ORD1376,2025-07-27,Ethnic Wear,Salwar Suit,S,3249,2,Online,5,Looks even better than the photos.
+ORD1377,2025-07-28,Dresses,Floral Midi Dress,S,2639,4,Store,4.7,Fabric feels so soft and premium.
+ORD1378,2025-07-29,Kurtis,Printed Kurti,L,1309,2,Store,4.9,Perfect fit and great quality.
+ORD1379,2025-07-30,Dresses,Party Dress,XL,4739,3,Store,3.3,Average quality for the price.
+ORD1380,2025-07-31,Dresses,Maxi Dress,XS,1779,3,Mobile App,4.1,"Fabric is good, color as shown."
+ORD1381,2025-07-31,Ethnic Wear,Salwar Suit,M,3909,1,Mobile App,4.7,Got so many compliments.
+ORD1382,2025-07-31,Tops,Silk Blouse,XS,2019,2,Store,4.5,"Looks nice, happy with the purchase."
+ORD1383,2025-07-31,Jeans,High-Waist Jeans,XS,1539,1,Mobile App,4.9,Perfect fit and great quality.
+ORD1384,2025-08-01,Bottoms,Palazzo Pants,M,649,1,Store,4.7,Absolutely love it!
+ORD1385,2025-08-03,Ethnic Wear,Salwar Suit,L,2399,1,Online,3.7,"Nice product, delivery was quick."
+ORD1386,2025-08-03,Jeans,Skinny Jeans,XXL,2009,5,Online,2.7,Fine for daily use.
+ORD1387,2025-08-03,Ethnic Wear,Silk Saree,L,3359,2,Store,3.5,"Looks nice, happy with the purchase."
+ORD1388,2025-08-03,Jeans,Skinny Jeans,M,1759,1,Store,4.9,Perfect fit and great quality.
+ORD1389,2025-08-04,Jeans,Skinny Jeans,XL,1779,2,Mobile App,3.9,Value for money.
+ORD1390,2025-08-04,Ethnic Wear,Salwar Suit,XXL,3019,3,Store,3.7,"Fabric is good, color as shown."
+ORD1391,2025-08-05,Kurtis,Straight Cut Kurti,M,1589,4,Online,4.6,Worth every rupee.
+ORD1392,2025-08-05,Tops,Crop Top,XXL,879,1,Store,3.2,"Decent, but expected better fabric."
+ORD1393,2025-08-05,Tops,Casual Shirt,L,1419,1,Mobile App,4.0,Value for money.
+ORD1394,2025-08-06,Ethnic Wear,Silk Saree,XL,3439,2,Online,3.0,"It is okay, nothing special."
+ORD1395,2025-08-07,Kurtis,Printed Kurti,L,1269,2,Mobile App,3.9,Comfortable and stylish.
+ORD1396,2025-08-08,Ethnic Wear,Salwar Suit,M,3149,1,Online,5,Absolutely love it!
+ORD1397,2025-08-08,Dresses,Maxi Dress,S,2069,2,Mobile App,4.0,Comfortable and stylish.
+ORD1398,2025-08-10,Kurtis,Anarkali Kurti,L,1849,1,Mobile App,4.6,Absolutely love it!
+ORD1399,2025-08-11,Dresses,Maxi Dress,L,1739,1,Mobile App,3.5,"Looks nice, happy with the purchase."
+ORD1400,2025-08-12,Bottoms,Formal Trousers,S,1899,2,Mobile App,3.1,Fine for daily use.
+ORD1401,2025-08-13,Dresses,Bodycon Dress,S,2499,1,Store,4.3,"Fabric is good, color as shown."
+ORD1402,2025-08-14,Jeans,Skinny Jeans,L,2119,1,Online,2.8,Fit is a little loose.
+ORD1403,2025-08-15,Bottoms,Palazzo Pants,L,1159,2,Online,3.8,Good quality and nice fit.
+ORD1404,2025-08-16,Ethnic Wear,Silk Saree,L,6139,4,Mobile App,4.2,"Nice product, delivery was quick."
+ORD1405,2025-08-17,Ethnic Wear,Lehenga Choli,M,4179,1,Online,4.0,"Nice product, delivery was quick."
+ORD1406,2025-08-17,Jeans,Wide-Leg Jeans,S,1459,1,Online,3.7,"Nice product, delivery was quick."
+ORD1407,2025-08-18,Kurtis,Anarkali Kurti,M,2979,4,Online,2.6,Fine for daily use.
+ORD1408,2025-08-19,Dresses,Party Dress,S,4009,1,Mobile App,3.3,Fine for daily use.
+ORD1409,2025-08-19,Bottoms,Palazzo Pants,XL,869,1,Store,4.6,Absolutely love it!
+ORD1410,2025-08-19,Dresses,Floral Midi Dress,L,1899,3,Mobile App,3.1,Color is slightly different from the picture.
+ORD1411,2025-08-19,Kurtis,Anarkali Kurti,S,1249,1,Store,2.9,"It is okay, nothing special."
+ORD1412,2025-08-20,Jeans,Skinny Jeans,XL,1629,1,Store,4.2,"Nice product, delivery was quick."
+ORD1413,2025-08-21,Ethnic Wear,Silk Saree,M,5809,2,Store,3.6,Value for money.
+ORD1414,2025-08-21,Jeans,High-Waist Jeans,XL,2039,1,Store,3.9,Value for money.
+ORD1415,2025-08-22,Bottoms,Palazzo Pants,L,739,3,Mobile App,2.8,"Decent, but expected better fabric."
+ORD1416,2025-08-22,Jeans,High-Waist Jeans,XXL,1279,3,Online,4.0,Value for money.
+ORD1417,2025-08-23,Dresses,Party Dress,S,4629,5,Store,4.8,Looks even better than the photos.
+ORD1418,2025-08-23,Kurtis,Straight Cut Kurti,XL,759,1,Mobile App,4.4,Value for money.
+ORD1419,2025-08-25,Jeans,Skinny Jeans,S,1209,3,Online,5,Absolutely love it!
+ORD1420,2025-08-26,Kurtis,Anarkali Kurti,S,1619,1,Mobile App,3.4,Fit is a little loose.
+ORD1421,2025-08-26,Activewear,Sports Bra,M,1189,2,Store,4.0,"Looks nice, happy with the purchase."
+ORD1422,2025-08-26,Kurtis,Anarkali Kurti,XXL,2779,2,Store,3.8,Good quality and nice fit.
+ORD1423,2025-08-29,Jeans,High-Waist Jeans,XXL,1599,1,Store,3.8,"Fabric is good, color as shown."
+ORD1424,2025-08-31,Ethnic Wear,Salwar Suit,M,2189,2,Mobile App,2.9,Fine for daily use.
+ORD1425,2025-08-31,Dresses,Party Dress,L,4129,1,Mobile App,4.9,Perfect fit and great quality.
+ORD1426,2025-08-31,Tops,Crop Top,M,509,1,Mobile App,2.6,"Decent, but expected better fabric."
+ORD1427,2025-08-31,Ethnic Wear,Silk Saree,M,5689,2,Store,4.0,"Looks nice, happy with the purchase."
+ORD1428,2025-09-01,Tops,Silk Blouse,L,2589,1,Store,3.8,Comfortable and stylish.
+ORD1429,2025-09-02,Tops,Crop Top,L,659,1,Store,4.8,Worth every rupee.
+ORD1430,2025-09-03,Tops,Crop Top,XS,709,3,Online,3.0,Fine for daily use.
+ORD1431,2025-09-03,Dresses,Party Dress,L,3889,1,Store,2.8,"Decent, but expected better fabric."
+ORD1432,2025-09-04,Ethnic Wear,Lehenga Choli,M,6789,1,Online,2.5,Not as shown in the photos.
+ORD1433,2025-09-04,Activewear,Yoga Leggings,L,1269,1,Online,3.4,Fine for daily use.
+ORD1434,2025-09-05,Winterwear,Long Coat,L,4399,1,Store,4.5,Comfortable and stylish.
+ORD1435,2025-09-05,Activewear,Sports Bra,XL,979,1,Mobile App,3.3,Fine for daily use.
+ORD1436,2025-09-05,Ethnic Wear,Lehenga Choli,S,8009,3,Online,3.7,"Looks nice, happy with the purchase."
+ORD1437,2025-09-05,Bottoms,Palazzo Pants,L,969,1,Online,3.9,Good quality and nice fit.
+ORD1438,2025-09-06,Bottoms,A-Line Skirt,S,899,1,Online,3.2,Fit is a little loose.
+ORD1439,2025-09-07,Bottoms,Formal Trousers,M,969,2,Online,4.1,"Nice product, delivery was quick."
+ORD1440,2025-09-07,Jeans,High-Waist Jeans,S,1809,1,Online,4.2,Good quality and nice fit.
+ORD1441,2025-09-08,Dresses,Party Dress,XXL,4429,1,Store,4.7,Worth every rupee.
+ORD1442,2025-09-09,Kurtis,Printed Kurti,L,1329,4,Online,4.3,"Looks nice, happy with the purchase."
+ORD1443,2025-09-09,Bottoms,Formal Trousers,L,1839,1,Store,4.1,"Looks nice, happy with the purchase."
+ORD1444,2025-09-09,Winterwear,Hoodie,S,2169,2,Mobile App,3.5,Comfortable and stylish.
+ORD1445,2025-09-10,Bottoms,Formal Trousers,L,1849,2,Store,4.4,"Nice product, delivery was quick."
+ORD1446,2025-09-10,Jeans,Skinny Jeans,M,2109,1,Online,4.2,Good quality and nice fit.
+ORD1447,2025-09-11,Dresses,Floral Midi Dress,M,2089,1,Online,2.9,Fit is a little loose.
+ORD1448,2025-09-13,Kurtis,Printed Kurti,L,1159,2,Store,3.6,"Fabric is good, color as shown."
+ORD1449,2025-09-14,Bottoms,A-Line Skirt,XL,1479,1,Mobile App,4.6,Fabric feels so soft and premium.
+ORD1450,2025-09-14,Dresses,Floral Midi Dress,M,1539,3,Store,4.2,"Fabric is good, color as shown."
+ORD1451,2025-09-14,Bottoms,Palazzo Pants,M,739,1,Online,4.1,"Looks nice, happy with the purchase."
+ORD1452,2025-09-15,Bottoms,Palazzo Pants,S,1199,1,Store,3.9,Good quality and nice fit.
+ORD1453,2025-09-15,Activewear,Sports Bra,L,1039,1,Store,4.3,Good quality and nice fit.
+ORD1454,2025-09-15,Jeans,Skinny Jeans,XXL,1109,1,Online,4.8,Looks even better than the photos.
+ORD1455,2025-09-15,Dresses,Floral Midi Dress,M,2409,2,Store,3.8,Value for money.
+ORD1456,2025-09-15,Dresses,Maxi Dress,M,2099,1,Mobile App,4.7,Worth every rupee.
+ORD1457,2025-09-16,Bottoms,Palazzo Pants,L,1079,1,Mobile App,4.3,Comfortable and stylish.
+ORD1458,2025-09-16,Kurtis,Straight Cut Kurti,XS,839,5,Mobile App,4.3,Good quality and nice fit.
+ORD1459,2025-09-17,Winterwear,Woolen Sweater,L,2779,2,Mobile App,3.9,"Looks nice, happy with the purchase."
+ORD1460,2025-09-17,Activewear,Yoga Leggings,L,1239,1,Store,3.7,Value for money.
+ORD1461,2025-09-19,Ethnic Wear,Salwar Suit,M,2289,4,Mobile App,3.4,Fine for daily use.
+ORD1462,2025-09-19,Jeans,Skinny Jeans,M,1909,3,Mobile App,4.9,Looks even better than the photos.
+ORD1463,2025-09-19,Dresses,Floral Midi Dress,L,2829,2,Mobile App,3.9,"Looks nice, happy with the purchase."
+ORD1464,2025-09-19,Kurtis,Printed Kurti,S,999,1,Mobile App,4.5,Value for money.
+ORD1465,2025-09-19,Jeans,Skinny Jeans,S,1149,2,Store,4.0,"Nice product, delivery was quick."
+ORD1466,2025-09-19,Jeans,High-Waist Jeans,L,2449,4,Store,3.4,"Decent, but expected better fabric."
+ORD1467,2025-09-22,Bottoms,Palazzo Pants,XL,1009,1,Store,3.1,Color is slightly different from the picture.
+ORD1468,2025-09-23,Bottoms,Palazzo Pants,L,1219,2,Store,3.4,Fine for daily use.
+ORD1469,2025-09-24,Jeans,Skinny Jeans,M,1139,3,Store,4.5,"Looks nice, happy with the purchase."
+ORD1470,2025-09-24,Dresses,Bodycon Dress,M,2389,2,Online,3.6,"Fabric is good, color as shown."
+ORD1471,2025-09-25,Ethnic Wear,Lehenga Choli,M,7299,1,Online,3.6,Good quality and nice fit.
+ORD1472,2025-09-25,Kurtis,Printed Kurti,XL,1269,1,Online,3.5,"Looks nice, happy with the purchase."
+ORD1473,2025-09-26,Winterwear,Hoodie,XXL,1129,1,Mobile App,3.1,"It is okay, nothing special."
+ORD1474,2025-09-26,Dresses,Bodycon Dress,L,1169,1,Online,4.2,"Nice product, delivery was quick."
+ORD1475,2025-09-28,Jeans,High-Waist Jeans,XL,1709,5,Online,5,Got so many compliments.
+ORD1476,2025-09-29,Bottoms,Formal Trousers,S,1169,1,Store,4.0,Comfortable and stylish.
+ORD1477,2025-09-29,Winterwear,Hoodie,S,1729,2,Mobile App,5,Perfect fit and great quality.
+ORD1478,2025-09-30,Bottoms,A-Line Skirt,L,1049,2,Mobile App,2.9,Fine for daily use.
+ORD1479,2025-10-01,Ethnic Wear,Silk Saree,M,5759,1,Online,3.7,"Fabric is good, color as shown."
+ORD1480,2025-10-01,Bottoms,A-Line Skirt,XXL,1339,1,Mobile App,4.7,Absolutely love it!
+ORD1481,2025-10-02,Activewear,Track Jacket,S,1539,2,Online,3.6,"Nice product, delivery was quick."
+ORD1482,2025-10-03,Jeans,Wide-Leg Jeans,M,1659,5,Store,5,Got so many compliments.
+ORD1483,2025-10-04,Winterwear,Hoodie,S,1059,2,Online,3.0,Fine for daily use.
+ORD1484,2025-10-04,Kurtis,Straight Cut Kurti,XL,879,2,Store,2.7,"Decent, but expected better fabric."
+ORD1485,2025-10-06,Kurtis,Anarkali Kurti,XL,2849,1,Online,2.8,Average quality for the price.
+ORD1486,2025-10-07,Bottoms,A-Line Skirt,L,1079,1,Mobile App,2.4,"Size runs small, had to exchange."
+ORD1487,2025-10-08,Tops,Crop Top,M,1119,2,Online,4.5,"Looks nice, happy with the purchase."
+ORD1488,2025-10-08,Bottoms,A-Line Skirt,M,1229,1,Mobile App,5,Got so many compliments.
+ORD1489,2025-10-08,Tops,Silk Blouse,L,2289,2,Store,5,Worth every rupee.
+ORD1490,2025-10-09,Activewear,Sports Bra,S,1019,1,Mobile App,4.7,Fabric feels so soft and premium.
+ORD1491,2025-10-09,Activewear,Yoga Leggings,M,889,2,Store,3.0,Average quality for the price.
+ORD1492,2025-10-09,Ethnic Wear,Silk Saree,M,6769,1,Online,3.3,Fine for daily use.
+ORD1493,2025-10-10,Tops,Cotton T-Shirt,L,659,2,Store,4.9,Looks even better than the photos.
+ORD1494,2025-10-11,Jeans,High-Waist Jeans,M,2289,1,Store,5,Fabric feels so soft and premium.
+ORD1495,2025-10-11,Ethnic Wear,Lehenga Choli,M,5679,2,Online,4.5,Comfortable and stylish.
+ORD1496,2025-10-11,Dresses,Party Dress,XL,4089,2,Online,3.9,Good quality and nice fit.
+ORD1497,2025-10-12,Ethnic Wear,Lehenga Choli,M,12119,1,Mobile App,4.3,"Nice product, delivery was quick."
+ORD1498,2025-10-12,Bottoms,Palazzo Pants,M,879,1,Store,3.9,"Nice product, delivery was quick."
+ORD1499,2025-10-13,Dresses,Maxi Dress,M,2889,1,Mobile App,4.9,Worth every rupee.
+ORD1500,2025-10-13,Winterwear,Hoodie,M,1749,2,Online,4.3,Good quality and nice fit.
+ORD1501,2025-10-14,Kurtis,Printed Kurti,M,1069,2,Online,3.9,"Nice product, delivery was quick."
+ORD1502,2025-10-14,Kurtis,Printed Kurti,S,849,2,Store,3.2,Average quality for the price.
+ORD1503,2025-10-14,Activewear,Sports Bra,L,699,1,Mobile App,3.7,Value for money.
+ORD1504,2025-10-15,Kurtis,Straight Cut Kurti,M,899,1,Mobile App,3.8,Comfortable and stylish.
+ORD1505,2025-10-16,Jeans,Wide-Leg Jeans,XS,1909,1,Store,3.0,Fine for daily use.
+ORD1506,2025-10-16,Tops,Silk Blouse,L,1419,1,Online,4.6,Absolutely love it!
+ORD1507,2025-10-16,Bottoms,Formal Trousers,XXL,939,3,Online,3.8,"Fabric is good, color as shown."
+ORD1508,2025-10-17,Activewear,Track Jacket,L,1459,5,Store,4.5,Value for money.
+ORD1509,2025-10-19,Jeans,Skinny Jeans,L,1359,2,Mobile App,4.7,Absolutely love it!
+ORD1510,2025-10-20,Tops,Crop Top,L,1089,1,Store,3.8,"Looks nice, happy with the purchase."
+ORD1511,2025-10-20,Dresses,Bodycon Dress,S,2119,3,Store,3.6,Good quality and nice fit.
+ORD1512,2025-10-20,Jeans,Wide-Leg Jeans,M,2689,5,Online,5,Perfect fit and great quality.
+ORD1513,2025-10-20,Tops,Casual Shirt,S,1319,1,Store,4.4,"Looks nice, happy with the purchase."
+ORD1514,2025-10-20,Ethnic Wear,Salwar Suit,L,3929,2,Mobile App,4.3,Good quality and nice fit.
+ORD1515,2025-10-21,Dresses,Party Dress,XL,2919,3,Mobile App,5,Got so many compliments.
+ORD1516,2025-10-21,Dresses,Floral Midi Dress,S,2399,1,Online,3.5,"Nice product, delivery was quick."
+ORD1517,2025-10-21,Bottoms,A-Line Skirt,S,939,1,Mobile App,4.3,Good quality and nice fit.
+ORD1518,2025-10-21,Dresses,Maxi Dress,S,2719,1,Mobile App,3.7,"Nice product, delivery was quick."
+ORD1519,2025-10-21,Dresses,Maxi Dress,M,1799,1,Online,4.3,Value for money.
+ORD1520,2025-10-22,Bottoms,A-Line Skirt,S,1139,2,Online,3.8,Comfortable and stylish.
+ORD1521,2025-10-22,Tops,Casual Shirt,M,1499,1,Online,3.0,"Decent, but expected better fabric."
+ORD1522,2025-10-23,Bottoms,Formal Trousers,L,1359,2,Online,2.8,"Decent, but expected better fabric."
+ORD1523,2025-10-23,Winterwear,Long Coat,S,5929,2,Online,3.8,"Looks nice, happy with the purchase."
+ORD1524,2025-10-24,Bottoms,Formal Trousers,M,1639,4,Store,4.6,Absolutely love it!
+ORD1525,2025-10-25,Tops,Cotton T-Shirt,M,739,1,Store,4.9,Got so many compliments.
+ORD1526,2025-10-25,Bottoms,A-Line Skirt,XXL,699,3,Mobile App,4.2,"Nice product, delivery was quick."
+ORD1527,2025-10-26,Dresses,Bodycon Dress,XS,1629,3,Store,3.8,Comfortable and stylish.
+ORD1528,2025-10-27,Tops,Silk Blouse,M,2179,3,Online,5,Perfect fit and great quality.
+ORD1529,2025-10-27,Jeans,High-Waist Jeans,L,2189,4,Online,4.3,"Nice product, delivery was quick."
+ORD1530,2025-10-28,Dresses,Floral Midi Dress,S,1739,3,Online,4.2,Value for money.
+ORD1531,2025-10-29,Winterwear,Woolen Sweater,M,1859,1,Online,5,Got so many compliments.
+ORD1532,2025-10-30,Tops,Silk Blouse,S,1409,1,Store,3.7,"Fabric is good, color as shown."
+ORD1533,2025-11-01,Winterwear,Woolen Sweater,S,1339,2,Online,4.0,Value for money.
+ORD1534,2025-11-01,Tops,Silk Blouse,M,2459,4,Store,2.6,Fine for daily use.
+ORD1535,2025-11-02,Bottoms,A-Line Skirt,XL,1099,2,Mobile App,3.4,Average quality for the price.
+ORD1536,2025-11-02,Tops,Crop Top,L,739,1,Online,4.3,Value for money.
+ORD1537,2025-11-04,Activewear,Yoga Leggings,L,1009,2,Mobile App,2.4,Quality is not great.
+ORD1538,2025-11-05,Dresses,Party Dress,M,4849,1,Store,3.3,Fit is a little loose.
+ORD1539,2025-11-06,Dresses,Party Dress,XXL,3079,3,Store,3.9,Good quality and nice fit.
+ORD1540,2025-11-07,Jeans,High-Waist Jeans,S,2419,3,Mobile App,2.2,Color faded after the first wash.
+ORD1541,2025-11-07,Dresses,Maxi Dress,XL,3019,1,Mobile App,4.5,Comfortable and stylish.
+ORD1542,2025-11-07,Kurtis,Printed Kurti,XL,699,1,Mobile App,4.9,Worth every rupee.
+ORD1543,2025-11-08,Winterwear,Long Coat,L,3309,1,Mobile App,4.1,Good quality and nice fit.
+ORD1544,2025-11-08,Ethnic Wear,Silk Saree,M,7889,3,Online,2.2,Fabric feels thin and cheap.
+ORD1545,2025-11-08,Winterwear,Woolen Sweater,XXL,2329,2,Online,3.9,"Nice product, delivery was quick."
+ORD1546,2025-11-08,Jeans,Wide-Leg Jeans,S,1879,1,Online,3.3,Fit is a little loose.
+ORD1547,2025-11-09,Dresses,Party Dress,L,2899,2,Mobile App,3.4,Color is slightly different from the picture.
+ORD1548,2025-11-10,Tops,Casual Shirt,L,1529,2,Online,2.5,Color faded after the first wash.
+ORD1549,2025-11-10,Tops,Silk Blouse,M,1749,2,Online,4.7,Perfect fit and great quality.
+ORD1550,2025-11-10,Kurtis,Anarkali Kurti,XL,1259,3,Mobile App,3.2,Average quality for the price.
+ORD1551,2025-11-11,Dresses,Floral Midi Dress,S,2699,1,Mobile App,3.1,Fine for daily use.
+ORD1552,2025-11-11,Activewear,Sports Bra,XXL,1169,2,Online,3.7,"Nice product, delivery was quick."
+ORD1553,2025-11-11,Jeans,Skinny Jeans,XXL,1349,2,Online,3.3,Fit is a little loose.
+ORD1554,2025-11-12,Jeans,High-Waist Jeans,S,1819,2,Mobile App,4.7,Fabric feels so soft and premium.
+ORD1555,2025-11-13,Jeans,Wide-Leg Jeans,L,2039,2,Online,3.0,Fine for daily use.
+ORD1556,2025-11-13,Tops,Casual Shirt,XL,1349,1,Mobile App,5,Fabric feels so soft and premium.
+ORD1557,2025-11-13,Jeans,Wide-Leg Jeans,L,1489,1,Mobile App,3.9,"Fabric is good, color as shown."
+ORD1558,2025-11-14,Tops,Cotton T-Shirt,XXL,479,1,Online,3.2,Fine for daily use.
+ORD1559,2025-11-14,Bottoms,A-Line Skirt,XXL,1469,1,Online,5,Looks even better than the photos.
+ORD1560,2025-11-14,Tops,Crop Top,L,759,2,Mobile App,3.6,"Nice product, delivery was quick."
+ORD1561,2025-11-14,Winterwear,Hoodie,XL,1639,1,Store,5,Perfect fit and great quality.
+ORD1562,2025-11-14,Activewear,Yoga Leggings,L,1479,1,Store,3.8,"Nice product, delivery was quick."
+ORD1563,2025-11-15,Jeans,High-Waist Jeans,L,1699,1,Online,3.2,Fine for daily use.
+ORD1564,2025-11-15,Kurtis,Anarkali Kurti,S,1749,3,Store,5,Looks even better than the photos.
+ORD1565,2025-11-16,Winterwear,Woolen Sweater,XL,2549,2,Mobile App,4.6,Worth every rupee.
+ORD1566,2025-11-16,Ethnic Wear,Lehenga Choli,XL,6389,1,Online,5,Perfect fit and great quality.
+ORD1567,2025-11-17,Bottoms,Palazzo Pants,S,819,1,Online,4.4,"Looks nice, happy with the purchase."
+ORD1568,2025-11-17,Winterwear,Woolen Sweater,M,2109,2,Mobile App,3.9,Good quality and nice fit.
+ORD1569,2025-11-17,Tops,Crop Top,S,1009,2,Online,4.6,Perfect fit and great quality.
+ORD1570,2025-11-19,Jeans,Wide-Leg Jeans,S,1409,1,Online,4.7,Absolutely love it!
+ORD1571,2025-11-19,Jeans,Skinny Jeans,M,1489,2,Online,4.0,Good quality and nice fit.
+ORD1572,2025-11-21,Dresses,Maxi Dress,M,2939,3,Mobile App,5,Fabric feels so soft and premium.
+ORD1573,2025-11-22,Dresses,Party Dress,XXL,3879,2,Store,2.8,"Decent, but expected better fabric."
+ORD1574,2025-11-22,Bottoms,A-Line Skirt,S,1529,1,Store,4.9,Looks even better than the photos.
+ORD1575,2025-11-22,Winterwear,Long Coat,S,3049,1,Online,3.6,"Looks nice, happy with the purchase."
+ORD1576,2025-11-23,Kurtis,Printed Kurti,M,879,2,Mobile App,4.0,"Looks nice, happy with the purchase."
+ORD1577,2025-11-23,Kurtis,Straight Cut Kurti,XL,1379,4,Mobile App,5,Looks even better than the photos.
+ORD1578,2025-11-23,Dresses,Maxi Dress,M,2429,2,Mobile App,2.5,Color faded after the first wash.
+ORD1579,2025-11-24,Ethnic Wear,Salwar Suit,XXL,3939,5,Mobile App,4.7,Perfect fit and great quality.
+ORD1580,2025-11-24,Bottoms,Formal Trousers,XL,1269,2,Online,4.7,Worth every rupee.
+ORD1581,2025-11-24,Winterwear,Long Coat,M,5309,1,Store,5,Absolutely love it!
+ORD1582,2025-11-25,Dresses,Party Dress,L,2299,1,Store,3.1,Average quality for the price.
+ORD1583,2025-11-25,Bottoms,Formal Trousers,XL,1019,2,Online,3.5,"Nice product, delivery was quick."
+ORD1584,2025-11-25,Kurtis,Printed Kurti,M,1289,1,Online,3.6,Value for money.
+ORD1585,2025-11-26,Ethnic Wear,Silk Saree,M,6009,1,Online,3.8,"Fabric is good, color as shown."
+ORD1586,2025-11-26,Bottoms,Formal Trousers,S,1559,3,Store,3.7,"Nice product, delivery was quick."
+ORD1587,2025-11-27,Ethnic Wear,Salwar Suit,XL,4269,2,Online,4.7,Absolutely love it!
+ORD1588,2025-11-27,Activewear,Track Jacket,S,1179,1,Store,5,Got so many compliments.
+ORD1589,2025-11-27,Kurtis,Anarkali Kurti,S,2939,2,Online,3.9,Value for money.
+ORD1590,2025-11-28,Winterwear,Woolen Sweater,M,2159,1,Online,4.4,"Looks nice, happy with the purchase."
+ORD1591,2025-11-28,Kurtis,Printed Kurti,XXL,1449,1,Store,4.1,Value for money.
+ORD1592,2025-11-28,Kurtis,Printed Kurti,L,789,1,Store,4.2,Good quality and nice fit.
+ORD1593,2025-11-28,Dresses,Party Dress,S,2449,2,Mobile App,4.1,"Looks nice, happy with the purchase."
+ORD1594,2025-11-28,Bottoms,Formal Trousers,XS,1659,4,Mobile App,3.5,"Looks nice, happy with the purchase."
+ORD1595,2025-11-29,Ethnic Wear,Lehenga Choli,XL,5309,3,Mobile App,3.6,"Fabric is good, color as shown."
+ORD1596,2025-11-29,Kurtis,Straight Cut Kurti,L,709,1,Mobile App,3.7,"Looks nice, happy with the purchase."
+ORD1597,2025-12-01,Tops,Cotton T-Shirt,M,429,1,Mobile App,3.8,"Fabric is good, color as shown."
+ORD1598,2025-12-01,Activewear,Sports Bra,M,669,2,Online,3.2,"It is okay, nothing special."
+ORD1599,2025-12-01,Dresses,Bodycon Dress,XS,1039,1,Online,3.1,"Decent, but expected better fabric."
+ORD1600,2025-12-02,Dresses,Maxi Dress,M,2829,3,Online,2.5,Color faded after the first wash.
+ORD1601,2025-12-02,Kurtis,Anarkali Kurti,S,1719,2,Mobile App,3.6,Comfortable and stylish.
+ORD1602,2025-12-02,Bottoms,A-Line Skirt,S,789,1,Store,4.2,"Fabric is good, color as shown."
+ORD1603,2025-12-02,Bottoms,Palazzo Pants,L,1099,4,Store,4.4,Value for money.
+ORD1604,2025-12-02,Tops,Casual Shirt,XL,709,1,Store,3.4,"It is okay, nothing special."
+ORD1605,2025-12-03,Winterwear,Woolen Sweater,L,2309,1,Store,4.9,Got so many compliments.
+ORD1606,2025-12-03,Jeans,Skinny Jeans,S,1989,1,Mobile App,4.2,Comfortable and stylish.
+ORD1607,2025-12-03,Jeans,Skinny Jeans,M,2139,1,Mobile App,4.3,"Looks nice, happy with the purchase."
+ORD1608,2025-12-05,Dresses,Bodycon Dress,M,1869,1,Store,3.7,"Looks nice, happy with the purchase."
+ORD1609,2025-12-05,Tops,Crop Top,XXL,1029,1,Mobile App,3.9,"Looks nice, happy with the purchase."
+ORD1610,2025-12-05,Kurtis,Anarkali Kurti,S,2479,2,Store,4.1,Good quality and nice fit.
+ORD1611,2025-12-05,Tops,Cotton T-Shirt,M,629,1,Online,5,Looks even better than the photos.
+ORD1612,2025-12-05,Ethnic Wear,Salwar Suit,L,4329,2,Mobile App,4.3,"Looks nice, happy with the purchase."
+ORD1613,2025-12-06,Bottoms,Formal Trousers,L,1909,2,Mobile App,2.7,"It is okay, nothing special."
+ORD1614,2025-12-07,Winterwear,Long Coat,M,3359,2,Store,4.8,Got so many compliments.
+ORD1615,2025-12-08,Tops,Cotton T-Shirt,S,969,1,Online,3.0,"It is okay, nothing special."
+ORD1616,2025-12-08,Bottoms,A-Line Skirt,L,1049,2,Store,4.2,Comfortable and stylish.
+ORD1617,2025-12-09,Activewear,Sports Bra,S,899,1,Online,4.9,Got so many compliments.
+ORD1618,2025-12-10,Bottoms,Formal Trousers,S,1299,1,Mobile App,4.4,Comfortable and stylish.
+ORD1619,2025-12-11,Tops,Casual Shirt,M,1459,3,Store,5,Perfect fit and great quality.
+ORD1620,2025-12-12,Winterwear,Long Coat,S,3019,2,Online,4.9,Fabric feels so soft and premium.
+ORD1621,2025-12-14,Winterwear,Woolen Sweater,XL,2189,1,Online,4.6,Perfect fit and great quality.
+ORD1622,2025-12-14,Ethnic Wear,Lehenga Choli,M,12779,1,Mobile App,5,Fabric feels so soft and premium.
+ORD1623,2025-12-14,Dresses,Floral Midi Dress,M,2219,4,Online,4.6,Worth every rupee.
+ORD1624,2025-12-15,Winterwear,Long Coat,XXL,4999,1,Store,4.8,Fabric feels so soft and premium.
+ORD1625,2025-12-15,Jeans,Wide-Leg Jeans,L,2209,1,Online,4.2,"Fabric is good, color as shown."
+ORD1626,2025-12-15,Ethnic Wear,Salwar Suit,L,4129,1,Mobile App,5,Perfect fit and great quality.
+ORD1627,2025-12-16,Tops,Crop Top,L,1059,1,Mobile App,5,Perfect fit and great quality.
+ORD1628,2025-12-16,Jeans,High-Waist Jeans,S,2069,1,Online,4.6,Fabric feels so soft and premium.
+ORD1629,2025-12-17,Activewear,Track Jacket,XS,2079,1,Store,3.5,"Looks nice, happy with the purchase."
+ORD1630,2025-12-17,Ethnic Wear,Lehenga Choli,XL,12059,1,Store,4.0,"Looks nice, happy with the purchase."
+ORD1631,2025-12-18,Tops,Crop Top,S,979,1,Mobile App,4.2,Comfortable and stylish.
+ORD1632,2025-12-18,Activewear,Yoga Leggings,M,1149,2,Mobile App,2.9,Fit is a little loose.
+ORD1633,2025-12-18,Jeans,Wide-Leg Jeans,L,1769,3,Store,3.7,"Looks nice, happy with the purchase."
+ORD1634,2025-12-18,Tops,Cotton T-Shirt,XXL,739,4,Mobile App,2.9,"It is okay, nothing special."
+ORD1635,2025-12-19,Winterwear,Woolen Sweater,XL,1689,2,Mobile App,3.9,Value for money.
+ORD1636,2025-12-19,Jeans,Skinny Jeans,XL,1979,1,Mobile App,5,Got so many compliments.
+ORD1637,2025-12-19,Jeans,High-Waist Jeans,S,1219,1,Mobile App,4.8,Absolutely love it!
+ORD1638,2025-12-19,Kurtis,Printed Kurti,M,1099,4,Online,4.0,"Fabric is good, color as shown."
+ORD1639,2025-12-20,Tops,Casual Shirt,XL,1069,1,Online,3.2,Color is slightly different from the picture.
+ORD1640,2025-12-21,Kurtis,Anarkali Kurti,M,1339,3,Mobile App,4.2,Comfortable and stylish.
+ORD1641,2025-12-21,Kurtis,Straight Cut Kurti,XL,1129,2,Mobile App,4.2,Value for money.
+ORD1642,2025-12-22,Ethnic Wear,Salwar Suit,S,3139,1,Mobile App,4.6,Looks even better than the photos.
+ORD1643,2025-12-22,Activewear,Yoga Leggings,S,1499,1,Store,3.0,"Decent, but expected better fabric."
+ORD1644,2025-12-22,Activewear,Track Jacket,M,1559,1,Online,3.9,"Looks nice, happy with the purchase."
+ORD1645,2025-12-23,Tops,Casual Shirt,L,1189,2,Store,4.1,Good quality and nice fit.
+ORD1646,2025-12-23,Kurtis,Straight Cut Kurti,S,1289,1,Store,3.2,Average quality for the price.
+ORD1647,2025-12-24,Bottoms,Palazzo Pants,S,839,2,Store,4.1,Good quality and nice fit.
+ORD1648,2025-12-24,Tops,Silk Blouse,XXL,2029,4,Mobile App,5,Perfect fit and great quality.
+ORD1649,2025-12-25,Ethnic Wear,Salwar Suit,S,2459,1,Online,4.3,"Looks nice, happy with the purchase."
+ORD1650,2025-12-25,Jeans,Skinny Jeans,S,2069,3,Online,4.3,"Looks nice, happy with the purchase."
+ORD1651,2025-12-25,Activewear,Sports Bra,M,659,1,Store,3.2,"Decent, but expected better fabric."
+ORD1652,2025-12-25,Ethnic Wear,Salwar Suit,XXL,1829,1,Store,3.7,Value for money.
+ORD1653,2025-12-26,Dresses,Maxi Dress,M,1849,1,Online,4.6,Worth every rupee.
+ORD1654,2025-12-26,Dresses,Floral Midi Dress,XXL,1319,1,Mobile App,3.6,Value for money.
+ORD1655,2025-12-26,Tops,Cotton T-Shirt,XXL,979,1,Mobile App,3.3,"It is okay, nothing special."
+ORD1656,2025-12-26,Dresses,Floral Midi Dress,XXL,2399,3,Mobile App,4.4,Comfortable and stylish.
+ORD1657,2025-12-26,Winterwear,Long Coat,XS,4859,3,Mobile App,4.9,Looks even better than the photos.
+ORD1658,2025-12-27,Activewear,Track Jacket,M,1999,1,Mobile App,3.8,Comfortable and stylish.
+ORD1659,2025-12-27,Kurtis,Printed Kurti,S,819,1,Online,4.0,Value for money.
+ORD1660,2025-12-28,Tops,Casual Shirt,L,1529,1,Online,5,Looks even better than the photos.
+ORD1661,2025-12-28,Ethnic Wear,Silk Saree,XS,6339,1,Online,2.9,"It is okay, nothing special."
+ORD1662,2025-12-28,Ethnic Wear,Salwar Suit,S,1709,1,Online,4.1,"Fabric is good, color as shown."
+ORD1663,2025-12-28,Bottoms,A-Line Skirt,L,1149,2,Mobile App,3.1,Fit is a little loose.
+ORD1664,2025-12-28,Activewear,Track Jacket,XL,1589,1,Store,4.8,Worth every rupee.
+ORD1665,2025-12-29,Winterwear,Hoodie,XL,1289,3,Mobile App,4.6,Looks even better than the photos.
+ORD1666,2025-12-30,Winterwear,Long Coat,S,6299,2,Online,4.3,"Looks nice, happy with the purchase."
+ORD1667,2025-12-30,Jeans,Wide-Leg Jeans,XL,2149,2,Mobile App,4.4,Comfortable and stylish.
+ORD1668,2025-12-30,Dresses,Bodycon Dress,L,1319,1,Mobile App,5,Worth every rupee.
+ORD1669,2025-12-31,Winterwear,Hoodie,M,1559,1,Store,3.1,Color is slightly different from the picture.
+ORD1670,2025-12-31,Winterwear,Hoodie,M,1759,1,Store,4.1,"Looks nice, happy with the purchase."
